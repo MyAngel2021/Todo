@@ -1,4 +1,4 @@
-/ слушатель загрузки DOm дерева
+// слушатель загрузки DOm дерева
 
 document.addEventListener("DOMContentLoaded", () =>
 {
